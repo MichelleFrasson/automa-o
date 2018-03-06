@@ -2,4 +2,5 @@ group :test do
 source 'https://rubygems.org'
  gem 'cucumber-rails', require: false
  gem 'capybara'
+gem 'selenium-webdriver'
 end
